@@ -1,0 +1,987 @@
+{
+    "name": "Ahmed Atwa",
+    "profile_link": "https://www.linkedin.com/in/ahmed-mohamed-atwa/",
+    "headline": "Fullstack Software Engineer (MERN) | MLH Fellow Fall '22",
+    "about": "Fullstack Software Engineer with end-to-end expertise in web development, from frontend and backend to DevOps and deployment. Experienced in delivering full-stack applications using React, Node.js, and cloud platforms. Passionate about contributing to open-source, optimizing development workflows, automating deployments, and creating efficient, maintainable software solutions that scale.I've worked for numerous local and international start-ups, diving into various technological stacks, communicating and understanding their needs, creating and improving services or entire systems, from small projects to large scale, and successfully achieving their and their users' satisfaction.Before that and till now, I've been coming up with my own ideas and creating my own applications and solutions to the problems I and the people around me face daily, developing them in public and making them available for free to everyone.I'm also deeply involved in open source, contributing to public organizations and their projects and participating in open-source initiatives including MLH Fellowship and Google Summer of Code.My services include:\u2022 Frontend Web Development: Creating websites of various sizes and complexities, from simple landing pages to complex feature-packed dashboards and web applications.\u2022 Backend Development: Creating backend services and APIs to support the frontend, developing the business logic, designing and operating the database, and integrating with third-party services.\u2022 Desktop Apps Development: Creating cross-platform desktop applications that are easy and quick to run and provide more powerful features on the user's device.\u2022 Cloud Hosting & DevOps: Hosting the services on the cloud platforms, advising on the system architecture, and creating CI/CD workflows and automation pipelines.\u2022 Building systems from ideation to MVP and beyond, performing code reviews, updating and fixing existing applications, and more.Skills:\u2022 Frontend:  HTML, CSS, JavaScript, TypeScript, ReactJS, Redux, NextJS, Bootstrap, Tailwind, Material UI, Storybook, ElectronJS.\u2022 Backend: NodeJS, Express, NestJS, TypeScript, MongoDB, SQL, Prisma, Socket.IO, Database Design, Microservices, Event-driven Architecture, System Design.\u2022 DevOps & Cloud: Linux, Docker, Kubernetes, Helm, NGINX, CI/CD Pipelines, GitHub Actions, Jenkins, AWS, GCP.Fullstack Software Engineer with end-to-end expertise in web development, from frontend and backend to DevOps and deployment. Experienced in delivering full-stack applications using React, Node.js, and cloud platforms. Passionate about contributing to open-source, optimizing development workflows, automating deployments, and creating efficient, maintainable software solutions that scale.\n\nI've worked for numerous local and international start-ups, diving into various technological stacks, communicating and understanding their needs, creating and improving services or entire systems, from small projects to large scale, and successfully achieving their and their users' satisfaction.\n\nBefore that and till now, I've been coming up with my own ideas and creating my own applications and solutions to the problems I and the people around me face daily, developing them in public and making them available for free to everyone.\n\nI'm also deeply involved in open source, contributing to public organizations and their projects and participating in open-source initiatives including MLH Fellowship and Google Summer of Code.\n\nMy services include:\n\u2022 Frontend Web Development: Creating websites of various sizes and complexities, from simple landing pages to complex feature-packed dashboards and web applications.\n\u2022 Backend Development: Creating backend services and APIs to support the frontend, developing the business logic, designing and operating the database, and integrating with third-party services.\n\u2022 Desktop Apps Development: Creating cross-platform desktop applications that are easy and quick to run and provide more powerful features on the user's device.\n\u2022 Cloud Hosting & DevOps: Hosting the services on the cloud platforms, advising on the system architecture, and creating CI/CD workflows and automation pipelines.\n\u2022 Building systems from ideation to MVP and beyond, performing code reviews, updating and fixing existing applications, and more.\n\nSkills:\n\u2022 Frontend:  HTML, CSS, JavaScript, TypeScript, ReactJS, Redux, NextJS, Bootstrap, Tailwind, Material UI, Storybook, ElectronJS.\n\u2022 Backend: NodeJS, Express, NestJS, TypeScript, MongoDB, SQL, Prisma, Socket.IO, Database Design, Microservices, Event-driven Architecture, System Design.\n\u2022 DevOps & Cloud: Linux, Docker, Kubernetes, Helm, NGINX, CI/CD Pipelines, GitHub Actions, Jenkins, AWS, GCP.",
+    "experience": [
+        {
+            "company_name": "Fullstack Software Engineer",
+            "duration": "Qaf-Kaf \u00b7 Part-time",
+            "designations": []
+        },
+        {
+            "company_name": "SemiColon",
+            "duration": "2 yrs",
+            "designations": [
+                {
+                    "1": "President",
+                    "2": "Oct 2023 to Sep 2024 \u00b7 1 yr",
+                    "3": "Managing SemiColon, planning its structure and events, and leading it to the future.\n\nAccomplishments:\n- Expanded greatly on our inner technical teams, opening new specializations, and \ngrowing from 6 to 10 technical teams.\n- Gathered over 800 graduates' data for potential employment at a major tech company.",
+                    "4": "Skills: Leadership \u00b7 Strategic Planning \u00b7 Decision-Making \u00b7 Team Leadership \u00b7 Project Management"
+                },
+                {
+                    "1": "Technical Director",
+                    "2": "Oct 2022 to Oct 2023 \u00b7 1 yr 1 mo",
+                    "3": "Managing & directing the technical academies and events in SemiColon. \n\nMy responsibilities included:\n- Planning & taking decisions for the club's technical events, and creating the timeline for the events.\n- Managing the technical academies & overviewing the coaching process of the members, ensuring sustained professional & personal development for them and a friendly environment.\n- Directly leading the web development academy & their inner teams, participating in mentorship, planning the club's IT projects and systems & ensuring best code practices & using latest tech trends.",
+                    "4": "Skills: Strategic Planning \u00b7 Team Management \u00b7 Coaching & Mentoring \u00b7 Front-End Development \u00b7 Team Leadership \u00b7 Project Management \u00b7 Full-Stack Development"
+                },
+                {
+                    "1": "Fullstack Team Lead",
+                    "2": "Full-time",
+                    "3": "Jun 2023 to Sep 2023 \u00b7 4 mos",
+                    "4": "Remote",
+                    "5": "Led the development of the full-stack recruitment system, which includes the registration website, dashboard website, and backend API & database, using React, NodeJS, Express, MongoDB, TypeScript & more.\n\nDigitalized the recruitment process as follows:\n\u2022 Replaced the need for 80% of the external services needed for the recruitment processes, such as Google Forms & Google Sheets, by implementing participant's state tracking & automatic email sending.\n\u2022 Removed all needs for paperwork in recruitment processes by developing interview notes & rating features. \n\u2022 Implemented security measures such as authentication, authorization, and logging for actions to trace any action done on the system, as well as rate-limiting\n\u2022 Ensured usage of latest technologies, best practices & code quality, through the usage of TypeScript, reviewing pull requests, adding swagger to the API, etc.\n\u2022 Hired, instructed & mentored the full-stack development team.",
+                    "6": "Skills: Back-End Web Development \u00b7 JavaScript \u00b7 Express.js \u00b7 MongoDB \u00b7 Team Leadership \u00b7 Node.js \u00b7 Database Development \u00b7 React.js \u00b7 TypeScript \u00b7 DevOps \u00b7 Redux.js \u00b7 NoSQL \u00b7 Full-Stack Development",
+                    "7": "GitHub - nightknighto/SemiColon-dashboard-frontend: Dashboard of SemiColon's Recruitment System",
+                    "8": "Dashboard page repo - README.md contains feature documentation and links to the other repositories.",
+                    "9": "ChartsPage.png",
+                    "10": "Dashboard of SemiColon's Recruitment System - Charts page.\nhttps://deadreyo.github.io/SemiColon-dashboard-frontend/",
+                    "11": "ParticipantsPage.png",
+                    "12": "Dashboard of SemiColon's Recruitment System - Applicants' data page.\nhttps://deadreyo.github.io/SemiColon-dashboard-frontend/"
+                }
+            ]
+        },
+        {
+            "company_name": "Cloud Computing Intern",
+            "duration": "EJADA \u00b7 Internship",
+            "designations": []
+        },
+        {
+            "company_name": "Fullstack Software Engineer",
+            "duration": "Qaf-Kaf \u00b7 Part-time",
+            "designations": []
+        },
+        {
+            "company_name": "Fullstack Software Engineer",
+            "duration": "OpenSauced \u00b7 Part-time",
+            "designations": []
+        },
+        {
+            "company_name": "MLH Software Engineering Fellow",
+            "duration": "Open Sauced \u00b7 Internship",
+            "designations": []
+        },
+        {
+            "company_name": "MLH Prep Fellow",
+            "duration": "Major League Hacking \u00b7 Internship",
+            "designations": []
+        }
+    ],
+    "education": [
+        {
+            "college": "Ain Shams University",
+            "degree": "Bachelor of Engineering - BE, Computer Engineering",
+            "duration": "Jun 2020 - Jun 2025"
+        }
+    ],
+    "licenses_and_certifications": [
+        {
+            "certification_at": "DevOps Engineer - Digital Egypt Pioneers Program",
+            "certification_provider": "Ministry of Communications and Information Technology (MCIT), Egypt",
+            "info": [
+                {
+                    "1": "DevOps Engineer - Digital Egypt Pioneers Program",
+                    "2": "Ministry of Communications and Information Technology (MCIT), Egypt",
+                    "3": "Issued Jan 2025",
+                    "4": "Skills: Docker \u00b7 Cloud Services \u00b7 Cloud Computing \u00b7 Kubernetes \u00b7 Continuous Integration and Continuous Delivery (CI/CD) \u00b7 Jenkins \u00b7 DevOps \u00b7 Terraform",
+                    "5": "Certificate",
+                    "6": "Enrolled in the Digital Egypt Pioneers Program - DevOps track, where I gained the following skills:\n- Linux\n- Docker to an advanced level\n- Kubernetes\n- Jenkins & CI/CD\n- Terraform\n- Cloud",
+                    "7": "Graduation Project"
+                }
+            ]
+        },
+        {
+            "certification_at": "Responsive Web Design",
+            "certification_provider": "freeCodeCamp",
+            "info": [
+                {
+                    "1": "Responsive Web Design",
+                    "2": "freeCodeCamp",
+                    "3": "Issued Jun 2024",
+                    "4": "Credential ID fccfd9eaa48-f208-4bce-abd6-6bb0fabbb292-rwd",
+                    "5": "Skills: HTML5 \u00b7 Front-End Development \u00b7 Cascading Style Sheets (CSS) \u00b7 HTML",
+                    "6": "certificate.png"
+                }
+            ]
+        },
+        {
+            "certification_at": "Object-Oriented Design",
+            "certification_provider": "Coursera",
+            "info": [
+                {
+                    "1": "Object-Oriented Design",
+                    "2": "Coursera",
+                    "3": "Issued Mar 2024",
+                    "4": "Credential ID NT44USDNRSZ9",
+                    "5": "Skills: Object Oriented Design \u00b7 Object-Oriented Programming (OOP) \u00b7 Unified Modeling Language (UML) \u00b7 Java",
+                    "6": "Coursera NT44USDNRSZ9.pdf"
+                }
+            ]
+        },
+        {
+            "certification_at": "Computer Networks Fundamentals",
+            "certification_provider": "Information Technology Institute (ITI)",
+            "info": [
+                {
+                    "1": "Computer Networks Fundamentals",
+                    "2": "Information Technology Institute (ITI)",
+                    "3": "Issued Jul 2023",
+                    "4": "Skills: Cybersecurity"
+                }
+            ]
+        },
+        {
+            "certification_at": "MongoDB Node.js Developer Path",
+            "certification_provider": "MongoDB",
+            "info": [
+                {
+                    "1": "MongoDB Node.js Developer Path",
+                    "2": "MongoDB",
+                    "3": "Issued Jun 2023",
+                    "4": "Credential ID MDBcvyq5gz8a3",
+                    "5": "Skills: Databases \u00b7 MongoDB \u00b7 Database Development \u00b7 NoSQL \u00b7 Node.js \u00b7 Back-End Web Development"
+                }
+            ]
+        },
+        {
+            "certification_at": "OWASP Top 10 (Web) 2021 Course Certificate",
+            "certification_provider": "Information Technology Institute (ITI)",
+            "info": [
+                {
+                    "1": "OWASP Top 10 (Web) 2021 Course Certificate",
+                    "2": "Information Technology Institute (ITI)",
+                    "3": "Issued Jun 2023",
+                    "4": "Skills: Cybersecurity \u00b7 Web Application Security"
+                }
+            ]
+        },
+        {
+            "certification_at": "React Developer Nanodegree",
+            "certification_provider": "Udacity",
+            "info": [
+                {
+                    "1": "React Developer Nanodegree",
+                    "2": "Udacity",
+                    "3": "Issued Aug 2022",
+                    "4": "Skills: React.js \u00b7 JavaScript",
+                    "5": "certificate.pdf",
+                    "6": "Enrolled in the Future Work is Digital (egFWD) scholarship for Udacity's React Nanodegree.\n- Strengthened my understanding and knowledge with React further, re-visiting the core concepts of React, while working on multiple projects to enhance my abilities.\n- Made a Book Library project that uses React to fetch and manage a library from books, using React Hooks and an external API."
+                }
+            ]
+        },
+        {
+            "certification_at": "Fullstack Javascript Developer Nanodegree",
+            "certification_provider": "Udacity",
+            "info": [
+                {
+                    "1": "Fullstack Javascript Developer Nanodegree",
+                    "2": "Udacity",
+                    "3": "Issued Jun 2022",
+                    "4": "Skills: Amazon Web Services (AWS) \u00b7 GitHub \u00b7 Cloud Services \u00b7 Integration Testing \u00b7 Cloud Computing \u00b7 TypeScript \u00b7 PostgreSQL \u00b7 Database Development \u00b7 Unit Testing \u00b7 Continuous Integration and Continuous Delivery (CI/CD) \u00b7 Node.js \u00b7 JavaScript \u00b7 Back-End Web Development \u00b7 DevOps \u00b7 Express.js",
+                    "5": "certificate.pdf",
+                    "6": "Enrolled in the (egFWD) scholarship for Udacity's Full Stack JS Nanodegree. Gained proper understanding and skills in:\n- NodeJs, Express, TypeScript, Unit Testing, Prettier & Eslint.\n- Relational Database, SQL, PostgreSQL, Express + PSQL, Unit & Integration Tests, Authorization & Authentication.\n- Amazon Web Services, setting up the production environment, interacting with the cloud, writing scripts, configuring and documenting an automation pipeline, & hosting full-stack web applications."
+                }
+            ]
+        },
+        {
+            "certification_at": "Web Development Challenger Track",
+            "certification_provider": "Udacity",
+            "info": [
+                {
+                    "1": "Web Development Challenger Track",
+                    "2": "Udacity",
+                    "3": "Issued Mar 2022",
+                    "4": "Skills: Front-End Development \u00b7 Cascading Style Sheets (CSS) \u00b7 HTML"
+                }
+            ]
+        },
+        {
+            "certification_at": "Front-End Web Development with React",
+            "certification_provider": "Coursera",
+            "info": [
+                {
+                    "1": "Front-End Web Development with React",
+                    "2": "Coursera",
+                    "3": "Issued Oct 2021",
+                    "4": "Skills: React.js \u00b7 Front-End Development"
+                }
+            ]
+        },
+        {
+            "certification_at": "Front-End Web UI Frameworks and Tools: Bootstrap 4",
+            "certification_provider": "Coursera",
+            "info": [
+                {
+                    "1": "Front-End Web UI Frameworks and Tools: Bootstrap 4",
+                    "2": "Coursera",
+                    "3": "Issued Aug 2021",
+                    "4": "Skills: Bootstrap \u00b7 Front-End Development \u00b7 Cascading Style Sheets (CSS)"
+                }
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "project_name": "Full DevOps Pipeline with CI/CD",
+            "project_provider": "Sep 2024 - Oct 2024",
+            "info": [
+                {
+                    "1": "Full DevOps Pipeline with CI/CD",
+                    "2": "Sep 2024 - Oct 2024",
+                    "3": "We developed a robust DevOps pipeline for the SemiColon Registration System, a Node.js backend application with a MongoDB database, deploying it on Microsoft Azure Cloud using modern DevOps practices.\n\n\ud83d\udd27 Key DevOps highlights:\n\n1. Docker & Docker Compose: We containerized the backend and MongoDB services for multiple environments (development, testing, production). A custom Docker Compose file was designed for testing the application, which is integrated into our Jenkins CI/CD pipeline to automate testing before every deployment.\n\n2. Kubernetes Orchestration: Managed the deployment of services using Kubernetes with a fully automated setup for scaling, load balancing, and handling traffic with ConfigMaps and Ingress rules. We implemented init containers to run tests before the main application starts, ensuring the system is always in a good state.\n\n3. Jenkins CI/CD Pipeline: Our Jenkins pipeline automates the full lifecycle of the application\u2014running tests, building Docker images, and deploying the infrastructure using Terraform and Ansible. The pipeline is built to ensure a smooth and consistent deployment process, handling everything from provisioning to configuration automatically.\n\n4. Terraform Infrastructure-as-Code: We used Terraform to provision the cloud infrastructure on Azure, ensuring consistent and repeatable deployments. This included setting up VMs, virtual networks, public IPs, and security groups, giving us a robust cloud foundation.\n\n5. Ansible Automation: Post-provisioning, Ansible was used to automate server configuration, install Docker, and deploy the application using Docker Compose. This ensured a fully automated end-to-end process, bringing the application online with minimal manual intervention.\n\n6. Slack Integration: We set up real-time Slack notifications to provide instant feedback on pipeline success or failure, allowing us to quickly address any issues and improve efficiency.",
+                    "4": "Skills: Docker \u00b7 Microsoft Azure \u00b7 Cloud Services \u00b7 Kubernetes \u00b7 Jenkins \u00b7 Cloud Computing \u00b7 DevOps \u00b7 Terraform",
+                    "5": "DevOps Full Pipeline for Semi-Colon Project.pptx",
+                    "6": "Presentation of the project",
+                    "7": "GitHub Repository",
+                    "8": "Other contributors"
+                }
+            ]
+        },
+        {
+            "project_name": "Restaurant Franchise Relational Database",
+            "project_provider": "Mar 2024 - May 2024",
+            "info": [
+                {
+                    "1": "Restaurant Franchise Relational Database",
+                    "2": "Mar 2024 - May 2024",
+                    "3": "Associated with Ain Shams University",
+                    "4": "Well designed and fully detailed database for a big restaurant franchise including every detail possible for the database to get close to how it would look like at a real franchise.\n\n- 18 entities and 26 relationships for a total of 35 tables.\n- 36 CREATE TABLE queries, 35 ALTER TABLE queries, 10 CREATE VIEW queries.\n- 39 INSERT queries for a total of about 700 rows of data respecting all constraints.\n- 18 reports (statistical queries) fully implemented.\n- Total of 2,000+ lines of SQL.\n- The biggest and most ambitious project out of all projects in the database course this semester. (2 to 3 times bigger than the average project)\n- Dives deep into the details of a restaurant franchise, such as customers, branches, tables, employees, ingredients, suppliers, menu items, reservations, deliveries, offers, tracking orders, and much more, all with their relationships with each other.\n\nFor more details, look at the GitHub repo.",
+                    "5": "Skills: Relational Databases \u00b7 Database Development \u00b7 Databases \u00b7 MySQL \u00b7 SQL",
+                    "6": "GitHub - nightknighto/Restaurant-Franchise-SQL-Database",
+                    "7": "The complete details and SQL implementation.",
+                    "8": "Relational_model.png",
+                    "9": "EER_diagram.png",
+                    "10": "Other contributors"
+                }
+            ]
+        },
+        {
+            "project_name": "OpenSauced OpenGraph",
+            "project_provider": "Feb 2023 - May 2023",
+            "info": [
+                {
+                    "1": "OpenSauced OpenGraph",
+                    "2": "Feb 2023 - May 2023",
+                    "3": "Associated with OpenSauced",
+                    "4": "\u2022 Created a backend service to generate on-demand personalized social card images for user profiles and user highlights, to be displayed as previews on links to profiles or highlights on social media platforms.\n\n\u2022 The service uses the user data to build an HTML page with Tailwind then transforms it into a PNG image and uploads it to S3 and links it to the frontend.\n\n\u2022 Caching is implemented to avoid unnecessary regeneration, by keeping track of the generation date and checking if there are changes to the user\u2019s data.\n\n\u2022 Published a dev.to post documenting the challenges faced during development and how we overcame them, from the proof-of-concept till production and integrating with the main website.",
+                    "5": "Skills: Amazon Web Services (AWS) \u00b7 NestJS \u00b7 Node.js \u00b7 TypeScript \u00b7 Tailwind CSS \u00b7 Back-End Web Development",
+                    "6": "Project blog post - Personalized Social Images: Enhancing User Profiles with Opengraph",
+                    "7": "GitHub Repo"
+                }
+            ]
+        },
+        {
+            "project_name": "Folder Services Utility App",
+            "project_provider": "Sep 2022 - Sep 2022",
+            "info": [
+                {
+                    "1": "Folder Services Utility App",
+                    "2": "Sep 2022 - Sep 2022",
+                    "3": "My Submission to the MLH Fellowship Orientation Hackathon\n\nI developed a desktop application designed to optimize folder management with multiple time-saving functionalities. Here are the key features:\n\n- Folder Info \ud83d\uddc3: Get detailed information about folders, including the count of folders and files, the - largest files by size, and the oldest files by creation date.\n- Image Compression \ud83e\udd0f: Efficiently compress all images within a folder to save space.\n- Deep Image Search \ud83d\udd0e: Locate and list all images within a folder and its subfolders, making it easier to find deeply nested images.\n- Subfolder Extraction \ud83d\udce4: Consolidate all files from subfolders into a single directory for easier access.\n\nThis application was built as a web application and transformed into a desktop application using Electron.js. The frontend was developed with React and TypeScript, while Node.js powered the app's functionalities.",
+                    "4": "Skills: HTML5 \u00b7 Electron.js \u00b7 JavaScript \u00b7 Node.js \u00b7 TypeScript \u00b7 React.js",
+                    "5": "home.png",
+                    "6": "Main menu",
+                    "7": "compress.png",
+                    "8": "Compress Images page"
+                }
+            ]
+        },
+        {
+            "project_name": "Reforged UI Designer",
+            "project_provider": "Dec 2020 - Aug 2022",
+            "info": [
+                {
+                    "1": "Reforged UI Designer",
+                    "2": "Dec 2020 - Aug 2022",
+                    "3": "\u2022 A desktop web application that is a visual drag-and-drop editor that designs user interfaces for games made in Warcraft III platform, using graphical elements only and without any code from the user. Uses ElectronJs and TypeScript.\n\u2022 Helped eliminate any need for users to learn coding & significantly reduced the difficulty of creating UI and cut down the time consumed in that process.\n\u2022 All systems were made from scratch, including Undo/Redo, Save/Load, code generation for 3 languages, elements dragging and mechanisms, element hierarchy management, and more.\n\u2022 Has over 2,000 downloads, and is well-known in the platform's community.\n\nGithub Link: https://github.com/nightknighto/Warcraft-3-Reforged-UI-Maker",
+                    "4": "Skills: HTML5 \u00b7 Electron.js \u00b7 Object-Oriented Programming (OOP) \u00b7 JavaScript \u00b7 GitHub \u00b7 Cascading Style Sheets (CSS) \u00b7 Front-End Development \u00b7 Git \u00b7 Node.js \u00b7 TypeScript \u00b7 Software Design Patterns \u00b7 HTML",
+                    "5": "screenshot.png",
+                    "6": "Screenshot from the app"
+                }
+            ]
+        },
+        {
+            "project_name": "ASUENG Library",
+            "project_provider": "Nov 2021 - Jun 2022",
+            "info": [
+                {
+                    "1": "ASUENG Library",
+                    "2": "Nov 2021 - Jun 2022",
+                    "3": "- A website for my colleagues that collects most of the available educational resources and materials like booklets and revisions in one place, organizing them by year. Uses React, Bootstrap & Typescript, and is fully responsive.\n- Gathered 3,000 users & 40,000 page views in its first year.",
+                    "4": "Skills: Bootstrap \u00b7 HTML5 \u00b7 JavaScript \u00b7 GitHub \u00b7 Cascading Style Sheets (CSS) \u00b7 Front-End Development \u00b7 Git \u00b7 TypeScript \u00b7 React.js \u00b7 HTML",
+                    "5": "screenshot.png"
+                }
+            ]
+        },
+        {
+            "project_name": "ASUENG Manager",
+            "project_provider": "Jan 2022 - May 2022",
+            "info": [
+                {
+                    "1": "ASUENG Manager",
+                    "2": "Jan 2022 - May 2022",
+                    "3": "\u2022 Developed a cross-platform desktop application using Electron, ReactJS, TypeScript & Bootstrap.\n\u2022 Created a user-friendly Graphical User Interface (GUI) for managing [ASUENG Library] courses' data saved in JSON format.\n\u2022 Designed and implemented specialized systems from scratch tailored to specific use cases, including a JSON Viewer that effectively parses and displays JSON data with controls, enabling non-developers to contribute by modifying course data without directly handling raw JSON.\n\nFeatures:\n\u2022 JSON Viewer: Parses and displays JSON data in a user-friendly manner.\n\u2022 Schema-Based Parsing: Parses JSON files according to a predefined data schema and saves modifications.\n\u2022 Folder Analysis: Analyzes desktop folders, generates data representations, and supports notes, sources, and credits from special file names.\n\u2022 Course Data Generation: Quickly converts existing folder structures into course data.\n\u2022 Data Organization: Allows adding, editing, and deleting folders, files, notes, and sources.\n\u2022 Academic Year Assignment: Organizes data by assigning academic years to folders, files, and notes.\n\u2022 Error Detection: Identifies and displays errors or warnings for invalid inputs, highlighting problematic data in the JSON Viewer.\n\u2022 Metadata Display: Shows metadata such as folder count, file count, and number of warnings and errors.",
+                    "4": "Skills: Bootstrap \u00b7 HTML5 \u00b7 Electron.js \u00b7 JavaScript \u00b7 GitHub \u00b7 Cascading Style Sheets (CSS) \u00b7 Front-End Development \u00b7 Git \u00b7 Node.js \u00b7 TypeScript \u00b7 React.js \u00b7 HTML",
+                    "5": "screenshot.png"
+                }
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "skill_name": "REST APIs",
+            "info": [
+                {
+                    "1": "REST APIs"
+                }
+            ]
+        },
+        {
+            "skill_name": "NoSQL",
+            "info": [
+                {
+                    "1": "NoSQL",
+                    "2": "2 experiences across Qaf-Kaf and 1 other company",
+                    "3": "MongoDB Node.js Developer Path"
+                }
+            ]
+        },
+        {
+            "skill_name": "Cloud Services",
+            "info": [
+                {
+                    "1": "Cloud Services",
+                    "2": "3 experiences across Qaf-Kaf and 1 other company",
+                    "3": "Fullstack Javascript Developer Nanodegree",
+                    "4": "DevOps Engineer - Digital Egypt Pioneers Program"
+                }
+            ]
+        },
+        {
+            "skill_name": "Database Development",
+            "info": [
+                {
+                    "1": "Database Development",
+                    "2": "Fullstack Team Lead at SemiColon",
+                    "3": "Ain Shams University",
+                    "4": "Fullstack Javascript Developer Nanodegree"
+                }
+            ]
+        },
+        {
+            "skill_name": "Back-End Web Development",
+            "info": [
+                {
+                    "1": "Back-End Web Development",
+                    "2": "3 experiences across Qaf-Kaf and 2 other companies",
+                    "3": "Fullstack Javascript Developer Nanodegree",
+                    "4": "MongoDB Node.js Developer Path"
+                }
+            ]
+        },
+        {
+            "skill_name": "Microsoft Azure",
+            "info": [
+                {
+                    "1": "Microsoft Azure",
+                    "2": "Full DevOps Pipeline with CI/CD"
+                }
+            ]
+        },
+        {
+            "skill_name": "Terraform",
+            "info": [
+                {
+                    "1": "Terraform",
+                    "2": "DevOps Engineer - Digital Egypt Pioneers Program",
+                    "3": "Full DevOps Pipeline with CI/CD"
+                }
+            ]
+        },
+        {
+            "skill_name": "Kubernetes",
+            "info": [
+                {
+                    "1": "Kubernetes",
+                    "2": "DevOps Engineer - Digital Egypt Pioneers Program",
+                    "3": "Full DevOps Pipeline with CI/CD"
+                }
+            ]
+        },
+        {
+            "skill_name": "Jenkins",
+            "info": [
+                {
+                    "1": "Jenkins",
+                    "2": "DevOps Engineer - Digital Egypt Pioneers Program",
+                    "3": "Full DevOps Pipeline with CI/CD"
+                }
+            ]
+        },
+        {
+            "skill_name": "Docker",
+            "info": [
+                {
+                    "1": "Docker",
+                    "2": "Fullstack Software Engineer at Qaf-Kaf",
+                    "3": "DevOps Engineer - Digital Egypt Pioneers Program",
+                    "4": "Full DevOps Pipeline with CI/CD"
+                }
+            ]
+        },
+        {
+            "skill_name": "Decision-Making",
+            "info": [
+                {
+                    "1": "Decision-Making",
+                    "2": "President at SemiColon"
+                }
+            ]
+        },
+        {
+            "skill_name": "React.js",
+            "info": [
+                {
+                    "1": "React.js",
+                    "2": "5 experiences across Qaf-Kaf and 4 other companies",
+                    "3": "Front-End Web Development with React",
+                    "4": "React Developer Nanodegree"
+                }
+            ]
+        },
+        {
+            "skill_name": "TypeScript",
+            "info": [
+                {
+                    "1": "TypeScript",
+                    "2": "5 experiences across Qaf-Kaf and 3 other companies",
+                    "3": "Fullstack Javascript Developer Nanodegree",
+                    "4": "4 endorsements"
+                }
+            ]
+        },
+        {
+            "skill_name": "Node.js",
+            "info": [
+                {
+                    "1": "Node.js",
+                    "2": "3 experiences across Qaf-Kaf and 2 other companies",
+                    "3": "Fullstack Javascript Developer Nanodegree",
+                    "4": "MongoDB Node.js Developer Path"
+                }
+            ]
+        },
+        {
+            "skill_name": "MongoDB",
+            "info": [
+                {
+                    "1": "MongoDB",
+                    "2": "2 experiences across Qaf-Kaf and 1 other company",
+                    "3": "MongoDB Node.js Developer Path",
+                    "4": "1 endorsement"
+                }
+            ]
+        },
+        {
+            "skill_name": "Next.js",
+            "info": [
+                {
+                    "1": "Next.js",
+                    "2": "2 experiences across Qaf-Kaf and 1 other company",
+                    "3": "2 endorsements"
+                }
+            ]
+        },
+        {
+            "skill_name": "Tailwind CSS",
+            "info": [
+                {
+                    "1": "Tailwind CSS",
+                    "2": "3 experiences across Qaf-Kaf and 2 other companies",
+                    "3": "1 endorsement",
+                    "4": "OpenSauced OpenGraph"
+                }
+            ]
+        },
+        {
+            "skill_name": "SQL",
+            "info": [
+                {
+                    "1": "SQL",
+                    "2": "Restaurant Franchise Relational Database"
+                }
+            ]
+        },
+        {
+            "skill_name": "Relational Databases",
+            "info": [
+                {
+                    "1": "Relational Databases",
+                    "2": "Restaurant Franchise Relational Database"
+                }
+            ]
+        },
+        {
+            "skill_name": "MySQL",
+            "info": [
+                {
+                    "1": "MySQL",
+                    "2": "Restaurant Franchise Relational Database"
+                }
+            ]
+        },
+        {
+            "skill_name": "Cloud Services",
+            "info": [
+                {
+                    "1": "Cloud Services",
+                    "2": "3 experiences across Qaf-Kaf and 1 other company",
+                    "3": "Fullstack Javascript Developer Nanodegree",
+                    "4": "DevOps Engineer - Digital Egypt Pioneers Program"
+                }
+            ]
+        },
+        {
+            "skill_name": "Database Development",
+            "info": [
+                {
+                    "1": "Database Development",
+                    "2": "Fullstack Team Lead at SemiColon",
+                    "3": "Ain Shams University",
+                    "4": "Fullstack Javascript Developer Nanodegree"
+                }
+            ]
+        },
+        {
+            "skill_name": "Back-End Web Development",
+            "info": [
+                {
+                    "1": "Back-End Web Development",
+                    "2": "3 experiences across Qaf-Kaf and 2 other companies",
+                    "3": "Fullstack Javascript Developer Nanodegree",
+                    "4": "MongoDB Node.js Developer Path"
+                }
+            ]
+        },
+        {
+            "skill_name": "Kubernetes",
+            "info": [
+                {
+                    "1": "Kubernetes",
+                    "2": "DevOps Engineer - Digital Egypt Pioneers Program",
+                    "3": "Full DevOps Pipeline with CI/CD"
+                }
+            ]
+        },
+        {
+            "skill_name": "TypeScript",
+            "info": [
+                {
+                    "1": "TypeScript",
+                    "2": "5 experiences across Qaf-Kaf and 3 other companies",
+                    "3": "Fullstack Javascript Developer Nanodegree",
+                    "4": "4 endorsements"
+                }
+            ]
+        },
+        {
+            "skill_name": "Object Oriented Design",
+            "info": [
+                {
+                    "1": "Object Oriented Design",
+                    "2": "Object-Oriented Design"
+                }
+            ]
+        },
+        {
+            "skill_name": "DevOps",
+            "info": [
+                {
+                    "1": "DevOps",
+                    "2": "5 experiences across Qaf-Kaf and 3 other companies",
+                    "3": "Fullstack Javascript Developer Nanodegree",
+                    "4": "DevOps Engineer - Digital Egypt Pioneers Program"
+                }
+            ]
+        },
+        {
+            "skill_name": "Object-Oriented Programming (OOP)",
+            "info": [
+                {
+                    "1": "Object-Oriented Programming (OOP)",
+                    "2": "Ain Shams University",
+                    "3": "Object-Oriented Design",
+                    "4": "Passed LinkedIn Skill Assessment"
+                }
+            ]
+        },
+        {
+            "skill_name": "Cybersecurity",
+            "info": [
+                {
+                    "1": "Cybersecurity",
+                    "2": "OWASP Top 10 (Web) 2021 Course Certificate",
+                    "3": "Computer Networks Fundamentals"
+                }
+            ]
+        },
+        {
+            "skill_name": "Web Application Security",
+            "info": [
+                {
+                    "1": "Web Application Security",
+                    "2": "OWASP Top 10 (Web) 2021 Course Certificate"
+                }
+            ]
+        },
+        {
+            "skill_name": "Algorithms",
+            "info": [
+                {
+                    "1": "Algorithms",
+                    "2": "Ain Shams University"
+                }
+            ]
+        },
+        {
+            "skill_name": "Full-Stack Development",
+            "info": [
+                {
+                    "1": "Full-Stack Development",
+                    "2": "3 experiences across Qaf-Kaf and 1 other company"
+                }
+            ]
+        },
+        {
+            "skill_name": "Coaching & Mentoring",
+            "info": [
+                {
+                    "1": "Coaching & Mentoring",
+                    "2": "Technical Director at SemiColon"
+                }
+            ]
+        },
+        {
+            "skill_name": "Data Structures",
+            "info": [
+                {
+                    "1": "Data Structures",
+                    "2": "Ain Shams University"
+                }
+            ]
+        },
+        {
+            "skill_name": "End-to-end Testing",
+            "info": [
+                {
+                    "1": "End-to-end Testing",
+                    "2": "MLH Software Engineering Fellow at Open Sauced"
+                }
+            ]
+        },
+        {
+            "skill_name": "Cloud Computing",
+            "info": [
+                {
+                    "1": "Cloud Computing",
+                    "2": "2 experiences across EJADA and 1 other company",
+                    "3": "Fullstack Javascript Developer Nanodegree",
+                    "4": "DevOps Engineer - Digital Egypt Pioneers Program"
+                }
+            ]
+        },
+        {
+            "skill_name": "Serverless Computing",
+            "info": [
+                {
+                    "1": "Serverless Computing",
+                    "2": "1 endorsement"
+                }
+            ]
+        },
+        {
+            "skill_name": "Continuous Integration and Continuous Delivery (CI/CD)",
+            "info": [
+                {
+                    "1": "Continuous Integration and Continuous Delivery (CI/CD)",
+                    "2": "MLH Prep Fellow at Major League Hacking",
+                    "3": "Fullstack Javascript Developer Nanodegree",
+                    "4": "DevOps Engineer - Digital Egypt Pioneers Program"
+                }
+            ]
+        },
+        {
+            "skill_name": "Software Design Patterns",
+            "info": [
+                {
+                    "1": "Software Design Patterns",
+                    "2": "Ain Shams University",
+                    "3": "1 endorsement",
+                    "4": "Reforged UI Designer"
+                }
+            ]
+        },
+        {
+            "skill_name": "Front-End Development",
+            "info": [
+                {
+                    "1": "Front-End Development",
+                    "2": "2 experiences across Qaf-Kaf and 1 other company",
+                    "3": "Web Development Challenger Track",
+                    "4": "Front-End Web UI Frameworks and Tools: Bootstrap 4"
+                }
+            ]
+        },
+        {
+            "skill_name": "REST APIs",
+            "info": [
+                {
+                    "1": "REST APIs"
+                }
+            ]
+        },
+        {
+            "skill_name": "NoSQL",
+            "info": [
+                {
+                    "1": "NoSQL",
+                    "2": "2 experiences across Qaf-Kaf and 1 other company",
+                    "3": "MongoDB Node.js Developer Path"
+                }
+            ]
+        },
+        {
+            "skill_name": "Microsoft Azure",
+            "info": [
+                {
+                    "1": "Microsoft Azure",
+                    "2": "Full DevOps Pipeline with CI/CD"
+                }
+            ]
+        },
+        {
+            "skill_name": "Terraform",
+            "info": [
+                {
+                    "1": "Terraform",
+                    "2": "DevOps Engineer - Digital Egypt Pioneers Program",
+                    "3": "Full DevOps Pipeline with CI/CD"
+                }
+            ]
+        },
+        {
+            "skill_name": "Jenkins",
+            "info": [
+                {
+                    "1": "Jenkins",
+                    "2": "DevOps Engineer - Digital Egypt Pioneers Program",
+                    "3": "Full DevOps Pipeline with CI/CD"
+                }
+            ]
+        },
+        {
+            "skill_name": "Docker",
+            "info": [
+                {
+                    "1": "Docker",
+                    "2": "Fullstack Software Engineer at Qaf-Kaf",
+                    "3": "DevOps Engineer - Digital Egypt Pioneers Program",
+                    "4": "Full DevOps Pipeline with CI/CD"
+                }
+            ]
+        },
+        {
+            "skill_name": "React.js",
+            "info": [
+                {
+                    "1": "React.js",
+                    "2": "5 experiences across Qaf-Kaf and 4 other companies",
+                    "3": "Front-End Web Development with React",
+                    "4": "React Developer Nanodegree"
+                }
+            ]
+        },
+        {
+            "skill_name": "Node.js",
+            "info": [
+                {
+                    "1": "Node.js",
+                    "2": "3 experiences across Qaf-Kaf and 2 other companies",
+                    "3": "Fullstack Javascript Developer Nanodegree",
+                    "4": "MongoDB Node.js Developer Path"
+                }
+            ]
+        },
+        {
+            "skill_name": "MongoDB",
+            "info": [
+                {
+                    "1": "MongoDB",
+                    "2": "2 experiences across Qaf-Kaf and 1 other company",
+                    "3": "MongoDB Node.js Developer Path",
+                    "4": "1 endorsement"
+                }
+            ]
+        },
+        {
+            "skill_name": "Next.js",
+            "info": [
+                {
+                    "1": "Next.js",
+                    "2": "2 experiences across Qaf-Kaf and 1 other company",
+                    "3": "2 endorsements"
+                }
+            ]
+        },
+        {
+            "skill_name": "Tailwind CSS",
+            "info": [
+                {
+                    "1": "Tailwind CSS",
+                    "2": "3 experiences across Qaf-Kaf and 2 other companies",
+                    "3": "1 endorsement",
+                    "4": "OpenSauced OpenGraph"
+                }
+            ]
+        },
+        {
+            "skill_name": "SQL",
+            "info": [
+                {
+                    "1": "SQL",
+                    "2": "Restaurant Franchise Relational Database"
+                }
+            ]
+        },
+        {
+            "skill_name": "Relational Databases",
+            "info": [
+                {
+                    "1": "Relational Databases",
+                    "2": "Restaurant Franchise Relational Database"
+                }
+            ]
+        },
+        {
+            "skill_name": "MySQL",
+            "info": [
+                {
+                    "1": "MySQL",
+                    "2": "Restaurant Franchise Relational Database"
+                }
+            ]
+        },
+        {
+            "skill_name": "Unified Modeling Language (UML)",
+            "info": [
+                {
+                    "1": "Unified Modeling Language (UML)",
+                    "2": "Object-Oriented Design"
+                }
+            ]
+        },
+        {
+            "skill_name": "Java",
+            "info": [
+                {
+                    "1": "Java",
+                    "2": "Object-Oriented Design"
+                }
+            ]
+        },
+        {
+            "skill_name": "Angular",
+            "info": [
+                {
+                    "1": "Angular",
+                    "2": "Fullstack Software Engineer at Qaf-Kaf"
+                }
+            ]
+        },
+        {
+            "skill_name": "Redux.js",
+            "info": [
+                {
+                    "1": "Redux.js",
+                    "2": "Fullstack Team Lead at SemiColon"
+                }
+            ]
+        },
+        {
+            "skill_name": "NestJS",
+            "info": [
+                {
+                    "1": "NestJS",
+                    "2": "Fullstack Software Engineer at OpenSauced",
+                    "3": "1 endorsement",
+                    "4": "OpenSauced OpenGraph"
+                }
+            ]
+        },
+        {
+            "skill_name": "Databases",
+            "info": [
+                {
+                    "1": "Databases",
+                    "2": "MongoDB Node.js Developer Path",
+                    "3": "1 endorsement",
+                    "4": "Restaurant Franchise Relational Database"
+                }
+            ]
+        },
+        {
+            "skill_name": "Decision-Making",
+            "info": [
+                {
+                    "1": "Decision-Making",
+                    "2": "President at SemiColon"
+                }
+            ]
+        },
+        {
+            "skill_name": "Leadership",
+            "info": [
+                {
+                    "1": "Leadership",
+                    "2": "President at SemiColon"
+                }
+            ]
+        },
+        {
+            "skill_name": "Team Leadership",
+            "info": [
+                {
+                    "1": "Team Leadership",
+                    "2": "4 experiences across SemiColon and 1 other company"
+                }
+            ]
+        },
+        {
+            "skill_name": "Strategic Planning",
+            "info": [
+                {
+                    "1": "Strategic Planning",
+                    "2": "2 experiences at SemiColon"
+                }
+            ]
+        },
+        {
+            "skill_name": "Team Management",
+            "info": [
+                {
+                    "1": "Team Management",
+                    "2": "Technical Director at SemiColon"
+                }
+            ]
+        },
+        {
+            "skill_name": "Problem Solving",
+            "info": [
+                {
+                    "1": "Problem Solving",
+                    "2": "2 endorsements"
+                }
+            ]
+        }
+    ]
+}
